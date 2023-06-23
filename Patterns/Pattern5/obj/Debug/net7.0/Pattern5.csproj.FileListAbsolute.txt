@@ -1,0 +1,15 @@
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Patterns/Pattern5/bin/Debug/net7.0/Pattern5
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Patterns/Pattern5/bin/Debug/net7.0/Pattern5.deps.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Patterns/Pattern5/bin/Debug/net7.0/Pattern5.runtimeconfig.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Patterns/Pattern5/bin/Debug/net7.0/Pattern5.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Patterns/Pattern5/bin/Debug/net7.0/Pattern5.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Patterns/Pattern5/obj/Debug/net7.0/Pattern5.csproj.AssemblyReference.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Patterns/Pattern5/obj/Debug/net7.0/Pattern5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Patterns/Pattern5/obj/Debug/net7.0/Pattern5.AssemblyInfoInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Patterns/Pattern5/obj/Debug/net7.0/Pattern5.AssemblyInfo.cs
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Patterns/Pattern5/obj/Debug/net7.0/Pattern5.csproj.CoreCompileInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Patterns/Pattern5/obj/Debug/net7.0/Pattern5.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Patterns/Pattern5/obj/Debug/net7.0/refint/Pattern5.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Patterns/Pattern5/obj/Debug/net7.0/Pattern5.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Patterns/Pattern5/obj/Debug/net7.0/Pattern5.genruntimeconfig.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Patterns/Pattern5/obj/Debug/net7.0/ref/Pattern5.dll
