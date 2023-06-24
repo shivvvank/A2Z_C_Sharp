@@ -1,0 +1,15 @@
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/ArmstrongNumber/obj/Debug/net7.0/ArmstrongNumber.csproj.AssemblyReference.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/ArmstrongNumber/obj/Debug/net7.0/ArmstrongNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/ArmstrongNumber/obj/Debug/net7.0/ArmstrongNumber.AssemblyInfoInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/ArmstrongNumber/obj/Debug/net7.0/ArmstrongNumber.AssemblyInfo.cs
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/ArmstrongNumber/obj/Debug/net7.0/ArmstrongNumber.csproj.CoreCompileInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/ArmstrongNumber/bin/Debug/net7.0/ArmstrongNumber
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/ArmstrongNumber/bin/Debug/net7.0/ArmstrongNumber.deps.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/ArmstrongNumber/bin/Debug/net7.0/ArmstrongNumber.runtimeconfig.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/ArmstrongNumber/bin/Debug/net7.0/ArmstrongNumber.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/ArmstrongNumber/bin/Debug/net7.0/ArmstrongNumber.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/ArmstrongNumber/obj/Debug/net7.0/ArmstrongNumber.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/ArmstrongNumber/obj/Debug/net7.0/refint/ArmstrongNumber.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/ArmstrongNumber/obj/Debug/net7.0/ArmstrongNumber.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/ArmstrongNumber/obj/Debug/net7.0/ArmstrongNumber.genruntimeconfig.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/ArmstrongNumber/obj/Debug/net7.0/ref/ArmstrongNumber.dll

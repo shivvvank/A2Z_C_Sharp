@@ -1,0 +1,15 @@
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/GCD/bin/Debug/net7.0/GCD
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/GCD/bin/Debug/net7.0/GCD.deps.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/GCD/bin/Debug/net7.0/GCD.runtimeconfig.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/GCD/bin/Debug/net7.0/GCD.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/GCD/bin/Debug/net7.0/GCD.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/GCD/obj/Debug/net7.0/GCD.csproj.AssemblyReference.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/GCD/obj/Debug/net7.0/GCD.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/GCD/obj/Debug/net7.0/GCD.AssemblyInfoInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/GCD/obj/Debug/net7.0/GCD.AssemblyInfo.cs
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/GCD/obj/Debug/net7.0/GCD.csproj.CoreCompileInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/GCD/obj/Debug/net7.0/GCD.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/GCD/obj/Debug/net7.0/refint/GCD.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/GCD/obj/Debug/net7.0/GCD.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/GCD/obj/Debug/net7.0/GCD.genruntimeconfig.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/GCD/obj/Debug/net7.0/ref/GCD.dll

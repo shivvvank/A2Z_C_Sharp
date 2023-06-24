@@ -1,0 +1,15 @@
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/ReverseNumber/obj/Debug/net7.0/ReverseNumber.csproj.AssemblyReference.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/ReverseNumber/obj/Debug/net7.0/ReverseNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/ReverseNumber/obj/Debug/net7.0/ReverseNumber.AssemblyInfoInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/ReverseNumber/obj/Debug/net7.0/ReverseNumber.AssemblyInfo.cs
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/ReverseNumber/obj/Debug/net7.0/ReverseNumber.csproj.CoreCompileInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/ReverseNumber/bin/Debug/net7.0/ReverseNumber
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/ReverseNumber/bin/Debug/net7.0/ReverseNumber.deps.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/ReverseNumber/bin/Debug/net7.0/ReverseNumber.runtimeconfig.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/ReverseNumber/bin/Debug/net7.0/ReverseNumber.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/ReverseNumber/bin/Debug/net7.0/ReverseNumber.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/ReverseNumber/obj/Debug/net7.0/ReverseNumber.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/ReverseNumber/obj/Debug/net7.0/refint/ReverseNumber.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/ReverseNumber/obj/Debug/net7.0/ReverseNumber.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/ReverseNumber/obj/Debug/net7.0/ReverseNumber.genruntimeconfig.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/ReverseNumber/obj/Debug/net7.0/ref/ReverseNumber.dll

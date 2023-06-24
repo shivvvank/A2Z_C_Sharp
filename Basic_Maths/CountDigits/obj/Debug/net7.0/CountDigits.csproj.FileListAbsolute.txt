@@ -1,0 +1,15 @@
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/CountDigits/obj/Debug/net7.0/CountDigits.csproj.AssemblyReference.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/CountDigits/obj/Debug/net7.0/CountDigits.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/CountDigits/obj/Debug/net7.0/CountDigits.AssemblyInfoInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/CountDigits/obj/Debug/net7.0/CountDigits.AssemblyInfo.cs
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/CountDigits/obj/Debug/net7.0/CountDigits.csproj.CoreCompileInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/CountDigits/bin/Debug/net7.0/CountDigits
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/CountDigits/bin/Debug/net7.0/CountDigits.deps.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/CountDigits/bin/Debug/net7.0/CountDigits.runtimeconfig.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/CountDigits/bin/Debug/net7.0/CountDigits.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/CountDigits/bin/Debug/net7.0/CountDigits.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/CountDigits/obj/Debug/net7.0/CountDigits.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/CountDigits/obj/Debug/net7.0/refint/CountDigits.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/CountDigits/obj/Debug/net7.0/CountDigits.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/CountDigits/obj/Debug/net7.0/CountDigits.genruntimeconfig.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/CountDigits/obj/Debug/net7.0/ref/CountDigits.dll

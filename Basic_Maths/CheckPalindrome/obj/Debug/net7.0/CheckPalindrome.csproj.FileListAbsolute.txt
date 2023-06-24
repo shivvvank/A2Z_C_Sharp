@@ -1,0 +1,15 @@
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/CheckPalindrome/bin/Debug/net7.0/CheckPalindrome
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/CheckPalindrome/bin/Debug/net7.0/CheckPalindrome.deps.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/CheckPalindrome/bin/Debug/net7.0/CheckPalindrome.runtimeconfig.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/CheckPalindrome/bin/Debug/net7.0/CheckPalindrome.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/CheckPalindrome/bin/Debug/net7.0/CheckPalindrome.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/CheckPalindrome/obj/Debug/net7.0/CheckPalindrome.csproj.AssemblyReference.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/CheckPalindrome/obj/Debug/net7.0/CheckPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/CheckPalindrome/obj/Debug/net7.0/CheckPalindrome.AssemblyInfoInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/CheckPalindrome/obj/Debug/net7.0/CheckPalindrome.AssemblyInfo.cs
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/CheckPalindrome/obj/Debug/net7.0/CheckPalindrome.csproj.CoreCompileInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/CheckPalindrome/obj/Debug/net7.0/CheckPalindrome.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/CheckPalindrome/obj/Debug/net7.0/refint/CheckPalindrome.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/CheckPalindrome/obj/Debug/net7.0/CheckPalindrome.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/CheckPalindrome/obj/Debug/net7.0/CheckPalindrome.genruntimeconfig.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/CheckPalindrome/obj/Debug/net7.0/ref/CheckPalindrome.dll
