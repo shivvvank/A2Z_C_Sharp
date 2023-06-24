@@ -1,0 +1,15 @@
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/CheckPrime/bin/Debug/net7.0/CheckPrime
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/CheckPrime/bin/Debug/net7.0/CheckPrime.deps.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/CheckPrime/bin/Debug/net7.0/CheckPrime.runtimeconfig.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/CheckPrime/bin/Debug/net7.0/CheckPrime.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/CheckPrime/bin/Debug/net7.0/CheckPrime.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/CheckPrime/obj/Debug/net7.0/CheckPrime.csproj.AssemblyReference.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/CheckPrime/obj/Debug/net7.0/CheckPrime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/CheckPrime/obj/Debug/net7.0/CheckPrime.AssemblyInfoInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/CheckPrime/obj/Debug/net7.0/CheckPrime.AssemblyInfo.cs
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/CheckPrime/obj/Debug/net7.0/CheckPrime.csproj.CoreCompileInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/CheckPrime/obj/Debug/net7.0/CheckPrime.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/CheckPrime/obj/Debug/net7.0/refint/CheckPrime.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/CheckPrime/obj/Debug/net7.0/CheckPrime.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/CheckPrime/obj/Debug/net7.0/CheckPrime.genruntimeconfig.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/CheckPrime/obj/Debug/net7.0/ref/CheckPrime.dll

@@ -1,0 +1,15 @@
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/AllDivisors/bin/Debug/net7.0/AllDivisors
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/AllDivisors/bin/Debug/net7.0/AllDivisors.deps.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/AllDivisors/bin/Debug/net7.0/AllDivisors.runtimeconfig.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/AllDivisors/bin/Debug/net7.0/AllDivisors.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/AllDivisors/bin/Debug/net7.0/AllDivisors.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/AllDivisors/obj/Debug/net7.0/AllDivisors.csproj.AssemblyReference.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/AllDivisors/obj/Debug/net7.0/AllDivisors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/AllDivisors/obj/Debug/net7.0/AllDivisors.AssemblyInfoInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/AllDivisors/obj/Debug/net7.0/AllDivisors.AssemblyInfo.cs
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/AllDivisors/obj/Debug/net7.0/AllDivisors.csproj.CoreCompileInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/AllDivisors/obj/Debug/net7.0/AllDivisors.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/AllDivisors/obj/Debug/net7.0/refint/AllDivisors.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/AllDivisors/obj/Debug/net7.0/AllDivisors.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/AllDivisors/obj/Debug/net7.0/AllDivisors.genruntimeconfig.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Maths/AllDivisors/obj/Debug/net7.0/ref/AllDivisors.dll
