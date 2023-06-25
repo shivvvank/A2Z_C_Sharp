@@ -1,0 +1,15 @@
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/PrintNTo1/bin/Debug/net7.0/PrintNTo1
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/PrintNTo1/bin/Debug/net7.0/PrintNTo1.deps.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/PrintNTo1/bin/Debug/net7.0/PrintNTo1.runtimeconfig.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/PrintNTo1/bin/Debug/net7.0/PrintNTo1.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/PrintNTo1/bin/Debug/net7.0/PrintNTo1.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/PrintNTo1/obj/Debug/net7.0/PrintNTo1.csproj.AssemblyReference.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/PrintNTo1/obj/Debug/net7.0/PrintNTo1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/PrintNTo1/obj/Debug/net7.0/PrintNTo1.AssemblyInfoInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/PrintNTo1/obj/Debug/net7.0/PrintNTo1.AssemblyInfo.cs
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/PrintNTo1/obj/Debug/net7.0/PrintNTo1.csproj.CoreCompileInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/PrintNTo1/obj/Debug/net7.0/PrintNTo1.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/PrintNTo1/obj/Debug/net7.0/refint/PrintNTo1.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/PrintNTo1/obj/Debug/net7.0/PrintNTo1.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/PrintNTo1/obj/Debug/net7.0/PrintNTo1.genruntimeconfig.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/PrintNTo1/obj/Debug/net7.0/ref/PrintNTo1.dll

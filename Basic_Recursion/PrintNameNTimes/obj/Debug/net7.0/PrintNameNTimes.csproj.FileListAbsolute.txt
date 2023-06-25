@@ -1,0 +1,15 @@
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/PrintNameNTimes/bin/Debug/net7.0/PrintNameNTimes
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/PrintNameNTimes/bin/Debug/net7.0/PrintNameNTimes.deps.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/PrintNameNTimes/bin/Debug/net7.0/PrintNameNTimes.runtimeconfig.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/PrintNameNTimes/bin/Debug/net7.0/PrintNameNTimes.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/PrintNameNTimes/bin/Debug/net7.0/PrintNameNTimes.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/PrintNameNTimes/obj/Debug/net7.0/PrintNameNTimes.csproj.AssemblyReference.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/PrintNameNTimes/obj/Debug/net7.0/PrintNameNTimes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/PrintNameNTimes/obj/Debug/net7.0/PrintNameNTimes.AssemblyInfoInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/PrintNameNTimes/obj/Debug/net7.0/PrintNameNTimes.AssemblyInfo.cs
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/PrintNameNTimes/obj/Debug/net7.0/PrintNameNTimes.csproj.CoreCompileInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/PrintNameNTimes/obj/Debug/net7.0/PrintNameNTimes.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/PrintNameNTimes/obj/Debug/net7.0/refint/PrintNameNTimes.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/PrintNameNTimes/obj/Debug/net7.0/PrintNameNTimes.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/PrintNameNTimes/obj/Debug/net7.0/PrintNameNTimes.genruntimeconfig.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/PrintNameNTimes/obj/Debug/net7.0/ref/PrintNameNTimes.dll
