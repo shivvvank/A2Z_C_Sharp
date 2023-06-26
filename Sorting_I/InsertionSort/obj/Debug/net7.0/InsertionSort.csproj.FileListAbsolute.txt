@@ -1,0 +1,15 @@
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_I/InsertionSort/bin/Debug/net7.0/InsertionSort
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_I/InsertionSort/bin/Debug/net7.0/InsertionSort.deps.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_I/InsertionSort/bin/Debug/net7.0/InsertionSort.runtimeconfig.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_I/InsertionSort/bin/Debug/net7.0/InsertionSort.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_I/InsertionSort/bin/Debug/net7.0/InsertionSort.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_I/InsertionSort/obj/Debug/net7.0/InsertionSort.csproj.AssemblyReference.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_I/InsertionSort/obj/Debug/net7.0/InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_I/InsertionSort/obj/Debug/net7.0/InsertionSort.AssemblyInfoInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_I/InsertionSort/obj/Debug/net7.0/InsertionSort.AssemblyInfo.cs
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_I/InsertionSort/obj/Debug/net7.0/InsertionSort.csproj.CoreCompileInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_I/InsertionSort/obj/Debug/net7.0/InsertionSort.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_I/InsertionSort/obj/Debug/net7.0/refint/InsertionSort.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_I/InsertionSort/obj/Debug/net7.0/InsertionSort.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_I/InsertionSort/obj/Debug/net7.0/InsertionSort.genruntimeconfig.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_I/InsertionSort/obj/Debug/net7.0/ref/InsertionSort.dll

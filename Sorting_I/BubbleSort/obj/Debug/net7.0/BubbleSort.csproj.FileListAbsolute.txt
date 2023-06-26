@@ -1,0 +1,15 @@
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_I/BubbleSort/bin/Debug/net7.0/BubbleSort
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_I/BubbleSort/bin/Debug/net7.0/BubbleSort.deps.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_I/BubbleSort/bin/Debug/net7.0/BubbleSort.runtimeconfig.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_I/BubbleSort/bin/Debug/net7.0/BubbleSort.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_I/BubbleSort/bin/Debug/net7.0/BubbleSort.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_I/BubbleSort/obj/Debug/net7.0/BubbleSort.csproj.AssemblyReference.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_I/BubbleSort/obj/Debug/net7.0/BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_I/BubbleSort/obj/Debug/net7.0/BubbleSort.AssemblyInfoInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_I/BubbleSort/obj/Debug/net7.0/BubbleSort.AssemblyInfo.cs
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_I/BubbleSort/obj/Debug/net7.0/BubbleSort.csproj.CoreCompileInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_I/BubbleSort/obj/Debug/net7.0/BubbleSort.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_I/BubbleSort/obj/Debug/net7.0/refint/BubbleSort.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_I/BubbleSort/obj/Debug/net7.0/BubbleSort.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_I/BubbleSort/obj/Debug/net7.0/BubbleSort.genruntimeconfig.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_I/BubbleSort/obj/Debug/net7.0/ref/BubbleSort.dll

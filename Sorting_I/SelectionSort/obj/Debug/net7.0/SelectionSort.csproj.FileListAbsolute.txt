@@ -1,0 +1,15 @@
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_I/SelectionSort/obj/Debug/net7.0/SelectionSort.csproj.AssemblyReference.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_I/SelectionSort/obj/Debug/net7.0/SelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_I/SelectionSort/obj/Debug/net7.0/SelectionSort.AssemblyInfoInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_I/SelectionSort/obj/Debug/net7.0/SelectionSort.AssemblyInfo.cs
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_I/SelectionSort/obj/Debug/net7.0/SelectionSort.csproj.CoreCompileInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_I/SelectionSort/bin/Debug/net7.0/SelectionSort
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_I/SelectionSort/bin/Debug/net7.0/SelectionSort.deps.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_I/SelectionSort/bin/Debug/net7.0/SelectionSort.runtimeconfig.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_I/SelectionSort/bin/Debug/net7.0/SelectionSort.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_I/SelectionSort/bin/Debug/net7.0/SelectionSort.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_I/SelectionSort/obj/Debug/net7.0/SelectionSort.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_I/SelectionSort/obj/Debug/net7.0/refint/SelectionSort.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_I/SelectionSort/obj/Debug/net7.0/SelectionSort.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_I/SelectionSort/obj/Debug/net7.0/SelectionSort.genruntimeconfig.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_I/SelectionSort/obj/Debug/net7.0/ref/SelectionSort.dll
