@@ -1,0 +1,15 @@
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/FactorialOfN/obj/Debug/net7.0/FactorialOfN.csproj.AssemblyReference.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/FactorialOfN/obj/Debug/net7.0/FactorialOfN.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/FactorialOfN/obj/Debug/net7.0/FactorialOfN.AssemblyInfoInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/FactorialOfN/obj/Debug/net7.0/FactorialOfN.AssemblyInfo.cs
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/FactorialOfN/obj/Debug/net7.0/FactorialOfN.csproj.CoreCompileInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/FactorialOfN/bin/Debug/net7.0/FactorialOfN
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/FactorialOfN/bin/Debug/net7.0/FactorialOfN.deps.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/FactorialOfN/bin/Debug/net7.0/FactorialOfN.runtimeconfig.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/FactorialOfN/bin/Debug/net7.0/FactorialOfN.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/FactorialOfN/bin/Debug/net7.0/FactorialOfN.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/FactorialOfN/obj/Debug/net7.0/FactorialOfN.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/FactorialOfN/obj/Debug/net7.0/refint/FactorialOfN.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/FactorialOfN/obj/Debug/net7.0/FactorialOfN.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/FactorialOfN/obj/Debug/net7.0/FactorialOfN.genruntimeconfig.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/FactorialOfN/obj/Debug/net7.0/ref/FactorialOfN.dll

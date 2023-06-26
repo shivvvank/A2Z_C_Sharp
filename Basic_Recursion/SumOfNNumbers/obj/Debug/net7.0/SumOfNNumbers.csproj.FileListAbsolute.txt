@@ -1,0 +1,15 @@
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/SumOfNNumbers/bin/Debug/net7.0/SumOfNNumbers
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/SumOfNNumbers/bin/Debug/net7.0/SumOfNNumbers.deps.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/SumOfNNumbers/bin/Debug/net7.0/SumOfNNumbers.runtimeconfig.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/SumOfNNumbers/bin/Debug/net7.0/SumOfNNumbers.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/SumOfNNumbers/bin/Debug/net7.0/SumOfNNumbers.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/SumOfNNumbers/obj/Debug/net7.0/SumOfNNumbers.csproj.AssemblyReference.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/SumOfNNumbers/obj/Debug/net7.0/SumOfNNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/SumOfNNumbers/obj/Debug/net7.0/SumOfNNumbers.AssemblyInfoInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/SumOfNNumbers/obj/Debug/net7.0/SumOfNNumbers.AssemblyInfo.cs
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/SumOfNNumbers/obj/Debug/net7.0/SumOfNNumbers.csproj.CoreCompileInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/SumOfNNumbers/obj/Debug/net7.0/SumOfNNumbers.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/SumOfNNumbers/obj/Debug/net7.0/refint/SumOfNNumbers.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/SumOfNNumbers/obj/Debug/net7.0/SumOfNNumbers.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/SumOfNNumbers/obj/Debug/net7.0/SumOfNNumbers.genruntimeconfig.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/SumOfNNumbers/obj/Debug/net7.0/ref/SumOfNNumbers.dll
