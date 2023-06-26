@@ -1,0 +1,15 @@
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Hashing/HighLowFreq/bin/Debug/net7.0/HighLowFreq
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Hashing/HighLowFreq/bin/Debug/net7.0/HighLowFreq.deps.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Hashing/HighLowFreq/bin/Debug/net7.0/HighLowFreq.runtimeconfig.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Hashing/HighLowFreq/bin/Debug/net7.0/HighLowFreq.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Hashing/HighLowFreq/bin/Debug/net7.0/HighLowFreq.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Hashing/HighLowFreq/obj/Debug/net7.0/HighLowFreq.csproj.AssemblyReference.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Hashing/HighLowFreq/obj/Debug/net7.0/HighLowFreq.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Hashing/HighLowFreq/obj/Debug/net7.0/HighLowFreq.AssemblyInfoInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Hashing/HighLowFreq/obj/Debug/net7.0/HighLowFreq.AssemblyInfo.cs
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Hashing/HighLowFreq/obj/Debug/net7.0/HighLowFreq.csproj.CoreCompileInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Hashing/HighLowFreq/obj/Debug/net7.0/HighLowFreq.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Hashing/HighLowFreq/obj/Debug/net7.0/refint/HighLowFreq.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Hashing/HighLowFreq/obj/Debug/net7.0/HighLowFreq.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Hashing/HighLowFreq/obj/Debug/net7.0/HighLowFreq.genruntimeconfig.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Hashing/HighLowFreq/obj/Debug/net7.0/ref/HighLowFreq.dll
