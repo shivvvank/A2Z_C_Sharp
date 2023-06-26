@@ -1,0 +1,15 @@
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/IsStringPalindrome/obj/Debug/net7.0/IsStringPalindrome.csproj.AssemblyReference.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/IsStringPalindrome/obj/Debug/net7.0/IsStringPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/IsStringPalindrome/obj/Debug/net7.0/IsStringPalindrome.AssemblyInfoInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/IsStringPalindrome/obj/Debug/net7.0/IsStringPalindrome.AssemblyInfo.cs
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/IsStringPalindrome/obj/Debug/net7.0/IsStringPalindrome.csproj.CoreCompileInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/IsStringPalindrome/bin/Debug/net7.0/IsStringPalindrome
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/IsStringPalindrome/bin/Debug/net7.0/IsStringPalindrome.deps.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/IsStringPalindrome/bin/Debug/net7.0/IsStringPalindrome.runtimeconfig.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/IsStringPalindrome/bin/Debug/net7.0/IsStringPalindrome.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/IsStringPalindrome/bin/Debug/net7.0/IsStringPalindrome.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/IsStringPalindrome/obj/Debug/net7.0/IsStringPalindrome.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/IsStringPalindrome/obj/Debug/net7.0/refint/IsStringPalindrome.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/IsStringPalindrome/obj/Debug/net7.0/IsStringPalindrome.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/IsStringPalindrome/obj/Debug/net7.0/IsStringPalindrome.genruntimeconfig.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/IsStringPalindrome/obj/Debug/net7.0/ref/IsStringPalindrome.dll

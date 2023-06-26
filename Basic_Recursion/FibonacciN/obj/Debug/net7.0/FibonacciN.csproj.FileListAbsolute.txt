@@ -1,0 +1,15 @@
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/FibonacciN/obj/Debug/net7.0/FibonacciN.csproj.AssemblyReference.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/FibonacciN/obj/Debug/net7.0/FibonacciN.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/FibonacciN/obj/Debug/net7.0/FibonacciN.AssemblyInfoInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/FibonacciN/obj/Debug/net7.0/FibonacciN.AssemblyInfo.cs
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/FibonacciN/obj/Debug/net7.0/FibonacciN.csproj.CoreCompileInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/FibonacciN/bin/Debug/net7.0/FibonacciN
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/FibonacciN/bin/Debug/net7.0/FibonacciN.deps.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/FibonacciN/bin/Debug/net7.0/FibonacciN.runtimeconfig.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/FibonacciN/bin/Debug/net7.0/FibonacciN.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/FibonacciN/bin/Debug/net7.0/FibonacciN.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/FibonacciN/obj/Debug/net7.0/FibonacciN.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/FibonacciN/obj/Debug/net7.0/refint/FibonacciN.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/FibonacciN/obj/Debug/net7.0/FibonacciN.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/FibonacciN/obj/Debug/net7.0/FibonacciN.genruntimeconfig.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/FibonacciN/obj/Debug/net7.0/ref/FibonacciN.dll

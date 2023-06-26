@@ -1,0 +1,15 @@
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/ReverseAnArray/obj/Debug/net7.0/ReverseAnArray.csproj.AssemblyReference.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/ReverseAnArray/obj/Debug/net7.0/ReverseAnArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/ReverseAnArray/obj/Debug/net7.0/ReverseAnArray.AssemblyInfoInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/ReverseAnArray/obj/Debug/net7.0/ReverseAnArray.AssemblyInfo.cs
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/ReverseAnArray/obj/Debug/net7.0/ReverseAnArray.csproj.CoreCompileInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/ReverseAnArray/bin/Debug/net7.0/ReverseAnArray
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/ReverseAnArray/bin/Debug/net7.0/ReverseAnArray.deps.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/ReverseAnArray/bin/Debug/net7.0/ReverseAnArray.runtimeconfig.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/ReverseAnArray/bin/Debug/net7.0/ReverseAnArray.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/ReverseAnArray/bin/Debug/net7.0/ReverseAnArray.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/ReverseAnArray/obj/Debug/net7.0/ReverseAnArray.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/ReverseAnArray/obj/Debug/net7.0/refint/ReverseAnArray.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/ReverseAnArray/obj/Debug/net7.0/ReverseAnArray.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/ReverseAnArray/obj/Debug/net7.0/ReverseAnArray.genruntimeconfig.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Basic_Recursion/ReverseAnArray/obj/Debug/net7.0/ref/ReverseAnArray.dll
