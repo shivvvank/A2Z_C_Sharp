@@ -1,0 +1,15 @@
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/CheckIfSortedOrRotated/bin/Debug/net7.0/CheckIfSortedOrRotated
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/CheckIfSortedOrRotated/bin/Debug/net7.0/CheckIfSortedOrRotated.deps.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/CheckIfSortedOrRotated/bin/Debug/net7.0/CheckIfSortedOrRotated.runtimeconfig.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/CheckIfSortedOrRotated/bin/Debug/net7.0/CheckIfSortedOrRotated.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/CheckIfSortedOrRotated/bin/Debug/net7.0/CheckIfSortedOrRotated.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/CheckIfSortedOrRotated/obj/Debug/net7.0/CheckIfSortedOrRotated.csproj.AssemblyReference.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/CheckIfSortedOrRotated/obj/Debug/net7.0/CheckIfSortedOrRotated.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/CheckIfSortedOrRotated/obj/Debug/net7.0/CheckIfSortedOrRotated.AssemblyInfoInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/CheckIfSortedOrRotated/obj/Debug/net7.0/CheckIfSortedOrRotated.AssemblyInfo.cs
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/CheckIfSortedOrRotated/obj/Debug/net7.0/CheckIfSortedOrRotated.csproj.CoreCompileInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/CheckIfSortedOrRotated/obj/Debug/net7.0/CheckIfSortedOrRotated.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/CheckIfSortedOrRotated/obj/Debug/net7.0/refint/CheckIfSortedOrRotated.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/CheckIfSortedOrRotated/obj/Debug/net7.0/CheckIfSortedOrRotated.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/CheckIfSortedOrRotated/obj/Debug/net7.0/CheckIfSortedOrRotated.genruntimeconfig.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/CheckIfSortedOrRotated/obj/Debug/net7.0/ref/CheckIfSortedOrRotated.dll
