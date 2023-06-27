@@ -2,15 +2,18 @@
     class Example {
 
         // 1 2 3 3 3 3 3
-        // 1 
+        // 
         static int RemoveDuplicates(ref int[] a,int n)
         {  
-            int i = 1,j=0;
-            while(j < n)
+            int j=1;
+            for(int i=1;i < n;i++)
             {
-                
+                if(a[i-1]!=a[i])
+                {
+                    a[j++]=a[i];
+                }
             }
-            return i-1;
+            return j;
         }
         public static void Main(string[] args){
             Console.WriteLine("Enter size of array");
