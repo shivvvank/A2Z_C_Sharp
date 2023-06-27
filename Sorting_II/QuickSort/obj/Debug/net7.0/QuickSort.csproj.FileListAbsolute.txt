@@ -1,0 +1,15 @@
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_II/QuickSort/obj/Debug/net7.0/QuickSort.csproj.AssemblyReference.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_II/QuickSort/obj/Debug/net7.0/QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_II/QuickSort/obj/Debug/net7.0/QuickSort.AssemblyInfoInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_II/QuickSort/obj/Debug/net7.0/QuickSort.AssemblyInfo.cs
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_II/QuickSort/obj/Debug/net7.0/QuickSort.csproj.CoreCompileInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_II/QuickSort/bin/Debug/net7.0/QuickSort
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_II/QuickSort/bin/Debug/net7.0/QuickSort.deps.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_II/QuickSort/bin/Debug/net7.0/QuickSort.runtimeconfig.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_II/QuickSort/bin/Debug/net7.0/QuickSort.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_II/QuickSort/bin/Debug/net7.0/QuickSort.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_II/QuickSort/obj/Debug/net7.0/QuickSort.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_II/QuickSort/obj/Debug/net7.0/refint/QuickSort.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_II/QuickSort/obj/Debug/net7.0/QuickSort.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_II/QuickSort/obj/Debug/net7.0/QuickSort.genruntimeconfig.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Sorting_II/QuickSort/obj/Debug/net7.0/ref/QuickSort.dll
