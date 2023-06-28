@@ -1,0 +1,15 @@
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/Union2Sortedarrays/obj/Debug/net7.0/Union2Sortedarrays.csproj.AssemblyReference.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/Union2Sortedarrays/obj/Debug/net7.0/Union2Sortedarrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/Union2Sortedarrays/obj/Debug/net7.0/Union2Sortedarrays.AssemblyInfoInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/Union2Sortedarrays/obj/Debug/net7.0/Union2Sortedarrays.AssemblyInfo.cs
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/Union2Sortedarrays/obj/Debug/net7.0/Union2Sortedarrays.csproj.CoreCompileInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/Union2Sortedarrays/bin/Debug/net7.0/Union2Sortedarrays
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/Union2Sortedarrays/bin/Debug/net7.0/Union2Sortedarrays.deps.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/Union2Sortedarrays/bin/Debug/net7.0/Union2Sortedarrays.runtimeconfig.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/Union2Sortedarrays/bin/Debug/net7.0/Union2Sortedarrays.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/Union2Sortedarrays/bin/Debug/net7.0/Union2Sortedarrays.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/Union2Sortedarrays/obj/Debug/net7.0/Union2Sortedarrays.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/Union2Sortedarrays/obj/Debug/net7.0/refint/Union2Sortedarrays.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/Union2Sortedarrays/obj/Debug/net7.0/Union2Sortedarrays.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/Union2Sortedarrays/obj/Debug/net7.0/Union2Sortedarrays.genruntimeconfig.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/Union2Sortedarrays/obj/Debug/net7.0/ref/Union2Sortedarrays.dll

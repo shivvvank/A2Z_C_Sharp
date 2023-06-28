@@ -1,0 +1,15 @@
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/MoveZeroesToEnd/bin/Debug/net7.0/MoveZeroesToEnd
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/MoveZeroesToEnd/bin/Debug/net7.0/MoveZeroesToEnd.deps.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/MoveZeroesToEnd/bin/Debug/net7.0/MoveZeroesToEnd.runtimeconfig.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/MoveZeroesToEnd/bin/Debug/net7.0/MoveZeroesToEnd.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/MoveZeroesToEnd/bin/Debug/net7.0/MoveZeroesToEnd.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/MoveZeroesToEnd/obj/Debug/net7.0/MoveZeroesToEnd.csproj.AssemblyReference.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/MoveZeroesToEnd/obj/Debug/net7.0/MoveZeroesToEnd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/MoveZeroesToEnd/obj/Debug/net7.0/MoveZeroesToEnd.AssemblyInfoInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/MoveZeroesToEnd/obj/Debug/net7.0/MoveZeroesToEnd.AssemblyInfo.cs
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/MoveZeroesToEnd/obj/Debug/net7.0/MoveZeroesToEnd.csproj.CoreCompileInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/MoveZeroesToEnd/obj/Debug/net7.0/MoveZeroesToEnd.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/MoveZeroesToEnd/obj/Debug/net7.0/refint/MoveZeroesToEnd.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/MoveZeroesToEnd/obj/Debug/net7.0/MoveZeroesToEnd.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/MoveZeroesToEnd/obj/Debug/net7.0/MoveZeroesToEnd.genruntimeconfig.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/MoveZeroesToEnd/obj/Debug/net7.0/ref/MoveZeroesToEnd.dll

@@ -1,0 +1,15 @@
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/LinearSearch/obj/Debug/net7.0/LinearSearch.csproj.AssemblyReference.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/LinearSearch/obj/Debug/net7.0/LinearSearch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/LinearSearch/obj/Debug/net7.0/LinearSearch.AssemblyInfoInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/LinearSearch/obj/Debug/net7.0/LinearSearch.AssemblyInfo.cs
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/LinearSearch/obj/Debug/net7.0/LinearSearch.csproj.CoreCompileInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/LinearSearch/bin/Debug/net7.0/LinearSearch
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/LinearSearch/bin/Debug/net7.0/LinearSearch.deps.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/LinearSearch/bin/Debug/net7.0/LinearSearch.runtimeconfig.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/LinearSearch/bin/Debug/net7.0/LinearSearch.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/LinearSearch/bin/Debug/net7.0/LinearSearch.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/LinearSearch/obj/Debug/net7.0/LinearSearch.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/LinearSearch/obj/Debug/net7.0/refint/LinearSearch.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/LinearSearch/obj/Debug/net7.0/LinearSearch.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/LinearSearch/obj/Debug/net7.0/LinearSearch.genruntimeconfig.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/LinearSearch/obj/Debug/net7.0/ref/LinearSearch.dll
