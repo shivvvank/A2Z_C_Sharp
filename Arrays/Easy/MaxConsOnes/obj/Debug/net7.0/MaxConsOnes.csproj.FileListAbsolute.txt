@@ -1,0 +1,15 @@
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/MaxConsOnes/bin/Debug/net7.0/MaxConsOnes
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/MaxConsOnes/bin/Debug/net7.0/MaxConsOnes.deps.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/MaxConsOnes/bin/Debug/net7.0/MaxConsOnes.runtimeconfig.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/MaxConsOnes/bin/Debug/net7.0/MaxConsOnes.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/MaxConsOnes/bin/Debug/net7.0/MaxConsOnes.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/MaxConsOnes/obj/Debug/net7.0/MaxConsOnes.csproj.AssemblyReference.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/MaxConsOnes/obj/Debug/net7.0/MaxConsOnes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/MaxConsOnes/obj/Debug/net7.0/MaxConsOnes.AssemblyInfoInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/MaxConsOnes/obj/Debug/net7.0/MaxConsOnes.AssemblyInfo.cs
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/MaxConsOnes/obj/Debug/net7.0/MaxConsOnes.csproj.CoreCompileInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/MaxConsOnes/obj/Debug/net7.0/MaxConsOnes.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/MaxConsOnes/obj/Debug/net7.0/refint/MaxConsOnes.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/MaxConsOnes/obj/Debug/net7.0/MaxConsOnes.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/MaxConsOnes/obj/Debug/net7.0/MaxConsOnes.genruntimeconfig.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/MaxConsOnes/obj/Debug/net7.0/ref/MaxConsOnes.dll

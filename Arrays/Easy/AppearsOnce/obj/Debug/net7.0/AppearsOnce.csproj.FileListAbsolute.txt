@@ -1,0 +1,15 @@
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/AppearsOnce/bin/Debug/net7.0/AppearsOnce
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/AppearsOnce/bin/Debug/net7.0/AppearsOnce.deps.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/AppearsOnce/bin/Debug/net7.0/AppearsOnce.runtimeconfig.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/AppearsOnce/bin/Debug/net7.0/AppearsOnce.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/AppearsOnce/bin/Debug/net7.0/AppearsOnce.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/AppearsOnce/obj/Debug/net7.0/AppearsOnce.csproj.AssemblyReference.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/AppearsOnce/obj/Debug/net7.0/AppearsOnce.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/AppearsOnce/obj/Debug/net7.0/AppearsOnce.AssemblyInfoInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/AppearsOnce/obj/Debug/net7.0/AppearsOnce.AssemblyInfo.cs
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/AppearsOnce/obj/Debug/net7.0/AppearsOnce.csproj.CoreCompileInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/AppearsOnce/obj/Debug/net7.0/AppearsOnce.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/AppearsOnce/obj/Debug/net7.0/refint/AppearsOnce.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/AppearsOnce/obj/Debug/net7.0/AppearsOnce.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/AppearsOnce/obj/Debug/net7.0/AppearsOnce.genruntimeconfig.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Easy/AppearsOnce/obj/Debug/net7.0/ref/AppearsOnce.dll
