@@ -1,0 +1,15 @@
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/IterativeBS/obj/Debug/net7.0/IterativeBS.csproj.AssemblyReference.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/IterativeBS/obj/Debug/net7.0/IterativeBS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/IterativeBS/obj/Debug/net7.0/IterativeBS.AssemblyInfoInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/IterativeBS/obj/Debug/net7.0/IterativeBS.AssemblyInfo.cs
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/IterativeBS/obj/Debug/net7.0/IterativeBS.csproj.CoreCompileInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/IterativeBS/bin/Debug/net7.0/IterativeBS
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/IterativeBS/bin/Debug/net7.0/IterativeBS.deps.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/IterativeBS/bin/Debug/net7.0/IterativeBS.runtimeconfig.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/IterativeBS/bin/Debug/net7.0/IterativeBS.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/IterativeBS/bin/Debug/net7.0/IterativeBS.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/IterativeBS/obj/Debug/net7.0/IterativeBS.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/IterativeBS/obj/Debug/net7.0/refint/IterativeBS.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/IterativeBS/obj/Debug/net7.0/IterativeBS.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/IterativeBS/obj/Debug/net7.0/IterativeBS.genruntimeconfig.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/IterativeBS/obj/Debug/net7.0/ref/IterativeBS.dll

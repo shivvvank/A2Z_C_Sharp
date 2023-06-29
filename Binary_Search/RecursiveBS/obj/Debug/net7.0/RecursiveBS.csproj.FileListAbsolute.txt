@@ -1,0 +1,15 @@
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/RecursiveBS/bin/Debug/net7.0/RecursiveBS
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/RecursiveBS/bin/Debug/net7.0/RecursiveBS.deps.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/RecursiveBS/bin/Debug/net7.0/RecursiveBS.runtimeconfig.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/RecursiveBS/bin/Debug/net7.0/RecursiveBS.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/RecursiveBS/bin/Debug/net7.0/RecursiveBS.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/RecursiveBS/obj/Debug/net7.0/RecursiveBS.csproj.AssemblyReference.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/RecursiveBS/obj/Debug/net7.0/RecursiveBS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/RecursiveBS/obj/Debug/net7.0/RecursiveBS.AssemblyInfoInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/RecursiveBS/obj/Debug/net7.0/RecursiveBS.AssemblyInfo.cs
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/RecursiveBS/obj/Debug/net7.0/RecursiveBS.csproj.CoreCompileInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/RecursiveBS/obj/Debug/net7.0/RecursiveBS.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/RecursiveBS/obj/Debug/net7.0/refint/RecursiveBS.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/RecursiveBS/obj/Debug/net7.0/RecursiveBS.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/RecursiveBS/obj/Debug/net7.0/RecursiveBS.genruntimeconfig.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/RecursiveBS/obj/Debug/net7.0/ref/RecursiveBS.dll

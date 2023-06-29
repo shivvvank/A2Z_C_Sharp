@@ -1,0 +1,15 @@
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/UpperBound/bin/Debug/net7.0/UpperBound
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/UpperBound/bin/Debug/net7.0/UpperBound.deps.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/UpperBound/bin/Debug/net7.0/UpperBound.runtimeconfig.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/UpperBound/bin/Debug/net7.0/UpperBound.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/UpperBound/bin/Debug/net7.0/UpperBound.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/UpperBound/obj/Debug/net7.0/UpperBound.csproj.AssemblyReference.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/UpperBound/obj/Debug/net7.0/UpperBound.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/UpperBound/obj/Debug/net7.0/UpperBound.AssemblyInfoInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/UpperBound/obj/Debug/net7.0/UpperBound.AssemblyInfo.cs
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/UpperBound/obj/Debug/net7.0/UpperBound.csproj.CoreCompileInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/UpperBound/obj/Debug/net7.0/UpperBound.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/UpperBound/obj/Debug/net7.0/refint/UpperBound.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/UpperBound/obj/Debug/net7.0/UpperBound.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/UpperBound/obj/Debug/net7.0/UpperBound.genruntimeconfig.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/UpperBound/obj/Debug/net7.0/ref/UpperBound.dll
