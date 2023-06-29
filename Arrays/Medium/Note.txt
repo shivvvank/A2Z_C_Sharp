@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------------------
+Sort 0,1,2 : Optimal approach is using variation of Dutch national flag algorithm.
+We keep tab of which range has 0 , 1 & 2
+0 - (low-1) contains 0
+low - (mid-1) contains 1 
+mid - high is unsorted
+high+1 -  n-1 contains 2 
+
+we use swapping to change when we encounter different values
+if 0 swap with low
+if 2 swap with high
+if 1 mid++
+------------------------------------------------------------------------------------------
+Finding Majority Elements 
+Moore's voting algorithm 
+
+if(c==0) e = a[i];
+if(e==a[i]) c++;
+if(e!=a[i]) c--;
+------------------------------------------------------------------------------------------
+
+
+
