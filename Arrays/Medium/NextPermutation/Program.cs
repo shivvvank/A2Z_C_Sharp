@@ -9,7 +9,7 @@ namespace Example {
         {
             int[] b = new int[n];
             Array.Sort(a);
-            // 1 2 3 // 2 1 3 // 3 2 1
+            
             return b;
         }
         public static void Main(string[] args){

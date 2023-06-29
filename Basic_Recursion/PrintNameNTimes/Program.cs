@@ -11,7 +11,9 @@ namespace Example {
             PrintNameNTimes(name,i-1);
         }
         public static void Main(string[] args){
-            string name = Convert.ToString(Console.ReadLine());
+            string? name = Convert.ToString(Console.ReadLine());
+            if(name == null)
+                return;
             int n = Convert.ToInt32(Console.ReadLine());
             PrintNameNTimes(name,n);
         }

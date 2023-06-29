@@ -1,7 +1,7 @@
 ﻿namespace Example {
     class Example {
 
-        static bool IsStringPalindrome(string? s,int i)
+        static bool IsStringPalindrome(string s,int i)
         {
             if(i>(s.Length/2))
                 return true;
@@ -11,6 +11,8 @@
         }
         public static void Main(string[] args){
             string? s = Console.ReadLine();
+            if(s==null)
+                return;
             if(IsStringPalindrome(s,0))
                 System.Console.WriteLine("String is Palindrome");
             else 
