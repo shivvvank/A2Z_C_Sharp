@@ -1,25 +1,31 @@
 ﻿using System.Buffers;
 using System.Diagnostics;
+using System.Diagnostics.Tracing;
 using System.Numerics;
 
 namespace Example {
     class Example {
 
-        // 2 3 4 6 7 9 12 16 17
-        static int Upper_Bound(int[] a,int n,int k)
+
+        // 1 2 2 2 2 3 3 4 5
+        static int LastOccurrence(int[] a,int n,int k)
         {
-            int ans = -1, start = 0, end = n-1;
-            while(start<=end)
+            int ans = -1,left=0,right=n-1;
+            while(left<=right)
             {
-                int mid = start+(end-start)/2;
-                if(a[mid]>k)
+                int mid = left + (right-left)/2;
+                if(a[mid]==k)
                 {
                     ans=mid;
-                    end = mid-1;
+                    left = mid+1;
+                }
+                else if(a[mid]<k)
+                {
+                    left = mid+1;
                 }
                 else
                 {
-                    start = mid+1;
+                    right = mid-1;
                 }
             }
             return ans;
@@ -35,11 +41,11 @@ namespace Example {
             }
             System.Console.WriteLine("Enter target element : ");
             int k = Convert.ToInt32(Console.ReadLine());
-            int x = Upper_Bound(a,n,k);
+            int x = LastOccurrence(a,n,k);
             if(x!=-1)
-                System.Console.WriteLine("Upper bound of "+k+" is : "+a[x]);
+                System.Console.WriteLine("Last occurrence of "+a[x]+" found at index : "+x);
             else 
-                System.Console.WriteLine("There is no Upper bound for "+k);
+                System.Console.WriteLine("Element not present in array !");
         }
     }
 }

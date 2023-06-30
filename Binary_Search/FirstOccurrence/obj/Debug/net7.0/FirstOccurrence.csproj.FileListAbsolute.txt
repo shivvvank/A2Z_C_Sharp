@@ -1,0 +1,15 @@
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/FirstOccurrence/bin/Debug/net7.0/FirstOccurrence
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/FirstOccurrence/bin/Debug/net7.0/FirstOccurrence.deps.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/FirstOccurrence/bin/Debug/net7.0/FirstOccurrence.runtimeconfig.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/FirstOccurrence/bin/Debug/net7.0/FirstOccurrence.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/FirstOccurrence/bin/Debug/net7.0/FirstOccurrence.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/FirstOccurrence/obj/Debug/net7.0/FirstOccurrence.csproj.AssemblyReference.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/FirstOccurrence/obj/Debug/net7.0/FirstOccurrence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/FirstOccurrence/obj/Debug/net7.0/FirstOccurrence.AssemblyInfoInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/FirstOccurrence/obj/Debug/net7.0/FirstOccurrence.AssemblyInfo.cs
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/FirstOccurrence/obj/Debug/net7.0/FirstOccurrence.csproj.CoreCompileInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/FirstOccurrence/obj/Debug/net7.0/FirstOccurrence.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/FirstOccurrence/obj/Debug/net7.0/refint/FirstOccurrence.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/FirstOccurrence/obj/Debug/net7.0/FirstOccurrence.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/FirstOccurrence/obj/Debug/net7.0/FirstOccurrence.genruntimeconfig.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/FirstOccurrence/obj/Debug/net7.0/ref/FirstOccurrence.dll
