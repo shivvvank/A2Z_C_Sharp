@@ -1,0 +1,5 @@
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/LinkedList/BasicLL/obj/Debug/net7.0/BasicLL.csproj.AssemblyReference.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/LinkedList/BasicLL/obj/Debug/net7.0/BasicLL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/LinkedList/BasicLL/obj/Debug/net7.0/BasicLL.AssemblyInfoInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/LinkedList/BasicLL/obj/Debug/net7.0/BasicLL.AssemblyInfo.cs
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/LinkedList/BasicLL/obj/Debug/net7.0/BasicLL.csproj.CoreCompileInputs.cache
