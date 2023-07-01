@@ -1,0 +1,15 @@
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/LeadersInArray/bin/Debug/net7.0/LeadersInArray
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/LeadersInArray/bin/Debug/net7.0/LeadersInArray.deps.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/LeadersInArray/bin/Debug/net7.0/LeadersInArray.runtimeconfig.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/LeadersInArray/bin/Debug/net7.0/LeadersInArray.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/LeadersInArray/bin/Debug/net7.0/LeadersInArray.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/LeadersInArray/obj/Debug/net7.0/LeadersInArray.csproj.AssemblyReference.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/LeadersInArray/obj/Debug/net7.0/LeadersInArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/LeadersInArray/obj/Debug/net7.0/LeadersInArray.AssemblyInfoInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/LeadersInArray/obj/Debug/net7.0/LeadersInArray.AssemblyInfo.cs
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/LeadersInArray/obj/Debug/net7.0/LeadersInArray.csproj.CoreCompileInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/LeadersInArray/obj/Debug/net7.0/LeadersInArray.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/LeadersInArray/obj/Debug/net7.0/refint/LeadersInArray.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/LeadersInArray/obj/Debug/net7.0/LeadersInArray.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/LeadersInArray/obj/Debug/net7.0/LeadersInArray.genruntimeconfig.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/LeadersInArray/obj/Debug/net7.0/ref/LeadersInArray.dll

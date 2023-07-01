@@ -1,0 +1,15 @@
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/SpiralTraversal/obj/Debug/net7.0/SpiralTraversal.csproj.AssemblyReference.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/SpiralTraversal/obj/Debug/net7.0/SpiralTraversal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/SpiralTraversal/obj/Debug/net7.0/SpiralTraversal.AssemblyInfoInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/SpiralTraversal/obj/Debug/net7.0/SpiralTraversal.AssemblyInfo.cs
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/SpiralTraversal/obj/Debug/net7.0/SpiralTraversal.csproj.CoreCompileInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/SpiralTraversal/bin/Debug/net7.0/SpiralTraversal
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/SpiralTraversal/bin/Debug/net7.0/SpiralTraversal.deps.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/SpiralTraversal/bin/Debug/net7.0/SpiralTraversal.runtimeconfig.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/SpiralTraversal/bin/Debug/net7.0/SpiralTraversal.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/SpiralTraversal/bin/Debug/net7.0/SpiralTraversal.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/SpiralTraversal/obj/Debug/net7.0/SpiralTraversal.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/SpiralTraversal/obj/Debug/net7.0/refint/SpiralTraversal.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/SpiralTraversal/obj/Debug/net7.0/SpiralTraversal.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/SpiralTraversal/obj/Debug/net7.0/SpiralTraversal.genruntimeconfig.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/SpiralTraversal/obj/Debug/net7.0/ref/SpiralTraversal.dll

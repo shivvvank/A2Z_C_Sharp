@@ -1,0 +1,15 @@
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/RotateMatrix/obj/Debug/net7.0/RotateMatrix.csproj.AssemblyReference.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/RotateMatrix/obj/Debug/net7.0/RotateMatrix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/RotateMatrix/obj/Debug/net7.0/RotateMatrix.AssemblyInfoInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/RotateMatrix/obj/Debug/net7.0/RotateMatrix.AssemblyInfo.cs
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/RotateMatrix/obj/Debug/net7.0/RotateMatrix.csproj.CoreCompileInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/RotateMatrix/bin/Debug/net7.0/RotateMatrix
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/RotateMatrix/bin/Debug/net7.0/RotateMatrix.deps.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/RotateMatrix/bin/Debug/net7.0/RotateMatrix.runtimeconfig.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/RotateMatrix/bin/Debug/net7.0/RotateMatrix.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/RotateMatrix/bin/Debug/net7.0/RotateMatrix.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/RotateMatrix/obj/Debug/net7.0/RotateMatrix.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/RotateMatrix/obj/Debug/net7.0/refint/RotateMatrix.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/RotateMatrix/obj/Debug/net7.0/RotateMatrix.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/RotateMatrix/obj/Debug/net7.0/RotateMatrix.genruntimeconfig.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/RotateMatrix/obj/Debug/net7.0/ref/RotateMatrix.dll

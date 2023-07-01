@@ -1,0 +1,15 @@
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/SetMatrixZero/obj/Debug/net7.0/SetMatrixZero.csproj.AssemblyReference.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/SetMatrixZero/obj/Debug/net7.0/SetMatrixZero.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/SetMatrixZero/obj/Debug/net7.0/SetMatrixZero.AssemblyInfoInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/SetMatrixZero/obj/Debug/net7.0/SetMatrixZero.AssemblyInfo.cs
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/SetMatrixZero/obj/Debug/net7.0/SetMatrixZero.csproj.CoreCompileInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/SetMatrixZero/bin/Debug/net7.0/SetMatrixZero
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/SetMatrixZero/bin/Debug/net7.0/SetMatrixZero.deps.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/SetMatrixZero/bin/Debug/net7.0/SetMatrixZero.runtimeconfig.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/SetMatrixZero/bin/Debug/net7.0/SetMatrixZero.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/SetMatrixZero/bin/Debug/net7.0/SetMatrixZero.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/SetMatrixZero/obj/Debug/net7.0/SetMatrixZero.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/SetMatrixZero/obj/Debug/net7.0/refint/SetMatrixZero.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/SetMatrixZero/obj/Debug/net7.0/SetMatrixZero.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/SetMatrixZero/obj/Debug/net7.0/SetMatrixZero.genruntimeconfig.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Arrays/Medium/SetMatrixZero/obj/Debug/net7.0/ref/SetMatrixZero.dll
