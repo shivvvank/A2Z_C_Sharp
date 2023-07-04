@@ -1,0 +1,15 @@
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/MinThresDivisor/obj/Debug/net7.0/MinThresDivisor.csproj.AssemblyReference.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/MinThresDivisor/obj/Debug/net7.0/MinThresDivisor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/MinThresDivisor/obj/Debug/net7.0/MinThresDivisor.AssemblyInfoInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/MinThresDivisor/obj/Debug/net7.0/MinThresDivisor.AssemblyInfo.cs
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/MinThresDivisor/obj/Debug/net7.0/MinThresDivisor.csproj.CoreCompileInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/MinThresDivisor/bin/Debug/net7.0/MinThresDivisor
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/MinThresDivisor/bin/Debug/net7.0/MinThresDivisor.deps.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/MinThresDivisor/bin/Debug/net7.0/MinThresDivisor.runtimeconfig.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/MinThresDivisor/bin/Debug/net7.0/MinThresDivisor.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/MinThresDivisor/bin/Debug/net7.0/MinThresDivisor.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/MinThresDivisor/obj/Debug/net7.0/MinThresDivisor.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/MinThresDivisor/obj/Debug/net7.0/refint/MinThresDivisor.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/MinThresDivisor/obj/Debug/net7.0/MinThresDivisor.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/MinThresDivisor/obj/Debug/net7.0/MinThresDivisor.genruntimeconfig.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/MinThresDivisor/obj/Debug/net7.0/ref/MinThresDivisor.dll

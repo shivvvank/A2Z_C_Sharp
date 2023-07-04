@@ -1,0 +1,15 @@
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/SquareRoot/bin/Debug/net7.0/SquareRoot
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/SquareRoot/bin/Debug/net7.0/SquareRoot.deps.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/SquareRoot/bin/Debug/net7.0/SquareRoot.runtimeconfig.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/SquareRoot/bin/Debug/net7.0/SquareRoot.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/SquareRoot/bin/Debug/net7.0/SquareRoot.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/SquareRoot/obj/Debug/net7.0/SquareRoot.csproj.AssemblyReference.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/SquareRoot/obj/Debug/net7.0/SquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/SquareRoot/obj/Debug/net7.0/SquareRoot.AssemblyInfoInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/SquareRoot/obj/Debug/net7.0/SquareRoot.AssemblyInfo.cs
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/SquareRoot/obj/Debug/net7.0/SquareRoot.csproj.CoreCompileInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/SquareRoot/obj/Debug/net7.0/SquareRoot.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/SquareRoot/obj/Debug/net7.0/refint/SquareRoot.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/SquareRoot/obj/Debug/net7.0/SquareRoot.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/SquareRoot/obj/Debug/net7.0/SquareRoot.genruntimeconfig.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/SquareRoot/obj/Debug/net7.0/ref/SquareRoot.dll

@@ -1,0 +1,15 @@
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/NthRoot/obj/Debug/net7.0/NthRoot.csproj.AssemblyReference.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/NthRoot/obj/Debug/net7.0/NthRoot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/NthRoot/obj/Debug/net7.0/NthRoot.AssemblyInfoInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/NthRoot/obj/Debug/net7.0/NthRoot.AssemblyInfo.cs
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/NthRoot/obj/Debug/net7.0/NthRoot.csproj.CoreCompileInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/NthRoot/bin/Debug/net7.0/NthRoot
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/NthRoot/bin/Debug/net7.0/NthRoot.deps.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/NthRoot/bin/Debug/net7.0/NthRoot.runtimeconfig.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/NthRoot/bin/Debug/net7.0/NthRoot.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/NthRoot/bin/Debug/net7.0/NthRoot.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/NthRoot/obj/Debug/net7.0/NthRoot.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/NthRoot/obj/Debug/net7.0/refint/NthRoot.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/NthRoot/obj/Debug/net7.0/NthRoot.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/NthRoot/obj/Debug/net7.0/NthRoot.genruntimeconfig.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Binary_Search/NthRoot/obj/Debug/net7.0/ref/NthRoot.dll
