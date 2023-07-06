@@ -1,0 +1,15 @@
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/StackFromArray/obj/Debug/net7.0/StackFromArray.csproj.AssemblyReference.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/StackFromArray/obj/Debug/net7.0/StackFromArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/StackFromArray/obj/Debug/net7.0/StackFromArray.AssemblyInfoInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/StackFromArray/obj/Debug/net7.0/StackFromArray.AssemblyInfo.cs
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/StackFromArray/obj/Debug/net7.0/StackFromArray.csproj.CoreCompileInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/StackFromArray/bin/Debug/net7.0/StackFromArray
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/StackFromArray/bin/Debug/net7.0/StackFromArray.deps.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/StackFromArray/bin/Debug/net7.0/StackFromArray.runtimeconfig.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/StackFromArray/bin/Debug/net7.0/StackFromArray.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/StackFromArray/bin/Debug/net7.0/StackFromArray.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/StackFromArray/obj/Debug/net7.0/StackFromArray.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/StackFromArray/obj/Debug/net7.0/refint/StackFromArray.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/StackFromArray/obj/Debug/net7.0/StackFromArray.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/StackFromArray/obj/Debug/net7.0/StackFromArray.genruntimeconfig.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/StackFromArray/obj/Debug/net7.0/ref/StackFromArray.dll

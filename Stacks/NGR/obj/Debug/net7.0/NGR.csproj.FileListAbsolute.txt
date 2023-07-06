@@ -1,0 +1,15 @@
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/NGR/obj/Debug/net7.0/NGR.csproj.AssemblyReference.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/NGR/obj/Debug/net7.0/NGR.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/NGR/obj/Debug/net7.0/NGR.AssemblyInfoInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/NGR/obj/Debug/net7.0/NGR.AssemblyInfo.cs
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/NGR/obj/Debug/net7.0/NGR.csproj.CoreCompileInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/NGR/bin/Debug/net7.0/NGR
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/NGR/bin/Debug/net7.0/NGR.deps.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/NGR/bin/Debug/net7.0/NGR.runtimeconfig.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/NGR/bin/Debug/net7.0/NGR.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/NGR/bin/Debug/net7.0/NGR.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/NGR/obj/Debug/net7.0/NGR.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/NGR/obj/Debug/net7.0/refint/NGR.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/NGR/obj/Debug/net7.0/NGR.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/NGR/obj/Debug/net7.0/NGR.genruntimeconfig.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/NGR/obj/Debug/net7.0/ref/NGR.dll
