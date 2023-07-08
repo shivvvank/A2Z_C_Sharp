@@ -1,0 +1,15 @@
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/NSR/bin/Debug/net7.0/NSR
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/NSR/bin/Debug/net7.0/NSR.deps.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/NSR/bin/Debug/net7.0/NSR.runtimeconfig.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/NSR/bin/Debug/net7.0/NSR.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/NSR/bin/Debug/net7.0/NSR.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/NSR/obj/Debug/net7.0/NSR.csproj.AssemblyReference.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/NSR/obj/Debug/net7.0/NSR.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/NSR/obj/Debug/net7.0/NSR.AssemblyInfoInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/NSR/obj/Debug/net7.0/NSR.AssemblyInfo.cs
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/NSR/obj/Debug/net7.0/NSR.csproj.CoreCompileInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/NSR/obj/Debug/net7.0/NSR.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/NSR/obj/Debug/net7.0/refint/NSR.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/NSR/obj/Debug/net7.0/NSR.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/NSR/obj/Debug/net7.0/NSR.genruntimeconfig.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/NSR/obj/Debug/net7.0/ref/NSR.dll

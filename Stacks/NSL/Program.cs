@@ -8,7 +8,7 @@ namespace Example {
         {
             int[] ans = new int[n];
             Stack<int> st=new Stack<int>();
-            for(int i=n-1;i>=0;i--)
+            for(int i=0;i<n;i++)
             {   
                 while(st.Count>0&&st.Peek()>=nums[i])
                 {
@@ -47,5 +47,5 @@ namespace Example {
 }
 
 
-// -3 -10 -4 -2 -1 -2 -6 -1 -7 -2 -9
-// 2 4 2 
+// 4 5 2 10 8 
+// -1 4 -1 2 2

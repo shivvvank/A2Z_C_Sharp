@@ -1,0 +1,15 @@
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/StockSpan/obj/Debug/net7.0/StockSpan.csproj.AssemblyReference.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/StockSpan/obj/Debug/net7.0/StockSpan.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/StockSpan/obj/Debug/net7.0/StockSpan.AssemblyInfoInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/StockSpan/obj/Debug/net7.0/StockSpan.AssemblyInfo.cs
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/StockSpan/obj/Debug/net7.0/StockSpan.csproj.CoreCompileInputs.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/StockSpan/bin/Debug/net7.0/StockSpan
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/StockSpan/bin/Debug/net7.0/StockSpan.deps.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/StockSpan/bin/Debug/net7.0/StockSpan.runtimeconfig.json
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/StockSpan/bin/Debug/net7.0/StockSpan.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/StockSpan/bin/Debug/net7.0/StockSpan.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/StockSpan/obj/Debug/net7.0/StockSpan.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/StockSpan/obj/Debug/net7.0/refint/StockSpan.dll
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/StockSpan/obj/Debug/net7.0/StockSpan.pdb
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/StockSpan/obj/Debug/net7.0/StockSpan.genruntimeconfig.cache
+/Users/shailshnailwal/Desktop/work/DotNet/Coding/StriverA2Z/Stacks/StockSpan/obj/Debug/net7.0/ref/StockSpan.dll
