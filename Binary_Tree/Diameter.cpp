@@ -37,38 +37,27 @@ Node* createBT()
     temp3->left = temp7;
     return root;
 }
-vector<int> preorder(Node* root)
+void inorder(Node* root)
 {
-    vector<int> pre;
-    stack<Node*> st;
     if(root==nullptr)
-        return pre;
-    st.push(root);
-    while(!st.empty())
-    {
-        Node* temp = st.top();
-        st.pop();
-        pre.push_back(temp->val);
-        if(temp->right!=nullptr)
-            st.push(temp->right);
-        if(temp->left!=nullptr)
-            st.push(temp->left);
-    }
-    return pre;
+        return;
+    inorder(root->left);
+    cout<<root->val<<" ";
+    inorder(root->right);
+}
+int height(Node* root,int& maxd)
+{
+    if(root==nullptr)
+        return 0;
+    int lh = height(root->left,maxd);
+    int rh = height(root->right,maxd);
+    maxd = max(maxd,lh+rh+1);
+    return 1+max(lh,rh);
 }
 int main(){
     Node* root = createBT();
-    vector<int> pre = preorder(root);
-    for(int i = 0;i<pre.size();i++)
-        cout<<pre[i]<<" ";
-    cout<<endl;
+    int maxd = INT_MIN;
+    int h = height(root,maxd);
+    cout<<"Diameter : "<<maxd<<endl;
     return 0;
 }
-
-/*
-            1
-        2       3
-    4       56      7
-8
-preorder - 1 2 4 8 5 3 6 7
-*/

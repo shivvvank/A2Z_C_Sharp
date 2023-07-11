@@ -37,38 +37,57 @@ Node* createBT()
     temp3->left = temp7;
     return root;
 }
-vector<int> preorder(Node* root)
+vector<int> postorder(Node* root)
 {
-    vector<int> pre;
+    vector<int> post;
     stack<Node*> st;
-    if(root==nullptr)
-        return pre;
-    st.push(root);
-    while(!st.empty())
+    Node* node = root;
+    while(node!=nullptr||!st.empty())
     {
-        Node* temp = st.top();
-        st.pop();
-        pre.push_back(temp->val);
-        if(temp->right!=nullptr)
-            st.push(temp->right);
-        if(temp->left!=nullptr)
-            st.push(temp->left);
+        if(node!=nullptr)
+        {
+            st.push(node);
+            node=node->left;
+        }
+        else
+        {
+            Node* temp = st.top()->right;
+            if(temp==nullptr)
+            {
+                temp = st.top();
+                st.pop();
+                post.push_back(temp->val);
+                while(!st.empty()&&temp==st.top()->right)
+                {
+                    temp=st.top();
+                    st.pop();
+                    post.push_back(temp->val);
+                }
+            }
+            else
+            {
+                node=temp;
+            }
+        }
     }
-    return pre;
+    return post;
 }
 int main(){
     Node* root = createBT();
-    vector<int> pre = preorder(root);
-    for(int i = 0;i<pre.size();i++)
-        cout<<pre[i]<<" ";
+    vector<int> post = postorder(root);
+    for(int i=0;i<post.size();i++)
+    {
+        cout<<post[i]<<" ";
+    }
     cout<<endl;
     return 0;
 }
-
 /*
+
             1
         2       3
     4       56      7
 8
-preorder - 1 2 4 8 5 3 6 7
+
+postorder - 8 4 5 2 6 7 3 1 
 */

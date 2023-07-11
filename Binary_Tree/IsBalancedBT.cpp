@@ -29,12 +29,12 @@ Node* createBT()
     Node* temp6 = new Node(7);
     Node* temp7 = new Node(8);
     root->left = temp1;
-    root->right = temp2;
-    temp1->left = temp3;
-    temp1->right = temp4;
-    temp2->left = temp5;
-    temp2->right = temp6;
-    temp3->left = temp7;
+    temp1->left = temp2;
+    temp2->left = temp3;
+    temp3->left = temp4;
+    temp4->left = temp5;
+    temp5->left = temp6;
+    temp6->left = temp7;
     return root;
 }
 vector<int> preorder(Node* root)
@@ -56,19 +56,34 @@ vector<int> preorder(Node* root)
     }
     return pre;
 }
+int IsBalanced(Node* root,bool& flag)
+{
+    if(root==nullptr)
+        return 0;
+    if(flag==false)
+        return 0;
+    int lh = IsBalanced(root->left,flag);
+    int rh = IsBalanced(root->right,flag);
+    if(abs(lh-rh)>1)
+        flag=false;
+    return 1+max(lh,rh);
+}
 int main(){
     Node* root = createBT();
-    vector<int> pre = preorder(root);
-    for(int i = 0;i<pre.size();i++)
-        cout<<pre[i]<<" ";
-    cout<<endl;
+    bool flag=true;
+    IsBalanced(root,flag);
+    if(flag)
+        cout<<"Binary tree is balanced"<<endl;
+    else 
+        cout<<"Binary tree is not balanced"<<endl;
     return 0;
 }
-
 /*
+
             1
         2       3
     4       56      7
 8
-preorder - 1 2 4 8 5 3 6 7
+
+preorder - 1 2 4 8 5 3 6 7 
 */
