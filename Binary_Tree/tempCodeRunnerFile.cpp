@@ -1,1 +1,0 @@
-reverse(post.begin(),post.end());
