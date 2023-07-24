@@ -21,6 +21,10 @@ vector<int> dfs(vector<int> adj[],int n)
     helper(adj,dfs,1,vis);
     return dfs;
 }
+vector<int> dfs2(vector<int> adj[],int n)
+{
+    stack<int> 
+}
 int main()
 {
     int n,m;
